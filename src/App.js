@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+import "./sass/App.sass";
 import { useDispatch, useSelector } from "react-redux";
 import { setUserName } from "./store/slices/userSlice";
 
