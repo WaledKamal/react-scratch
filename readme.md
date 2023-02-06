@@ -1,3 +1,3 @@
-Let's Make React project from scratch Without CRA !
+Let's make React project from scratch without CRA !
 
 With # Webpack 
